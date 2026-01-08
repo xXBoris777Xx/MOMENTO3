@@ -1,0 +1,31 @@
+.inicio-content {
+  --padding-top: 20px;
+  --padding-start: 16px;
+  --padding-end: 16px;
+}
+
+.hero {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+
+  h1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 25px;
+  }
+
+  ion-button {
+    margin-top: 10px;
+  }
+}
+
+ion-card {
+  border-radius: 16px;
+}
